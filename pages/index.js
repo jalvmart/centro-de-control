@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Courses } from "./courses";
+import { Courses } from "../lib/courses";
 import { skills_part1, skills_part2 } from "../components/data/skills.Data";
 import { Tools } from "../lib/toolsDev";
 import Link from "next/link";
