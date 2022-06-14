@@ -1,4 +1,4 @@
-import { courses } from "./courses.Data";
+import { courses } from "../components/data/courses.Data";
 
 export const Courses = () =>
     courses.map((x, y) =>

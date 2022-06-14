@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Courses } from "./courses";
-import { skills_part1, skills_part2 } from "./skills.Data";
-import { Tools } from "./toolsDev";
+import { skills_part1, skills_part2 } from "../components/data/skills.Data";
+import { Tools } from "../lib/toolsDev";
 import Link from "next/link";
 import Date from '../components/date';
 import Layout from "../components/layout";
